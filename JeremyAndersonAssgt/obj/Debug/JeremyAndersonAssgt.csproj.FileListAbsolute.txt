@@ -1,0 +1,10 @@
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\bin\Debug\JeremyAndersonAssgt.exe.config
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\bin\Debug\JeremyAndersonAssgt.exe
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\bin\Debug\JeremyAndersonAssgt.pdb
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.csprojAssemblyReference.cache
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.Properties.Resources.resources
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.frmSixOfOne.resources
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.csproj.GenerateResource.cache
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.exe
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.pdb
+C:\Users\Jeremy\OneDrive - The University Of Newcastle\INFT2012\JeremyAndersonAssgt\JeremyAndersonAssgt\obj\Debug\JeremyAndersonAssgt.frmGameType.resources
